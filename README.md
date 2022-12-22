@@ -33,7 +33,7 @@
 
 - <p style="color: red;">Desafio 01 - calculadora</p>
   Uma calculadora desenvolvida durante o bootcamp Orange tech da plataforma dio.
-  No desafio foi utilizado javascript mas para fins de aprofudamento e maior desafio utilizei typescript para resolução.
+  No desafio foi utilizado javascript mas para fins de aprofudamento e maior desafio utilizei typescript para resolução e vite pra melhor criação do projeto. <br/>
   A calculadora realiza as operações básicas e função de limpar o visor.
 
 ## 🚀 Tecnologias
