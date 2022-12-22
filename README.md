@@ -26,8 +26,9 @@
 </p>
 
 <p align="center" justify-content='space-between'>
-  <a href="" target="_blank"><img width=222 height=222 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
-  <a href="" target="_blank"><img width=222 height=222 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+  <a href="" target="_blank"><img width=220 height=220 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
+
+  <a href="" target="_blank"><img width=220 height=220 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 </p>
 
 ## 👨🏻‍💻 About the project
