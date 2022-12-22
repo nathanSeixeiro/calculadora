@@ -26,7 +26,7 @@
 </p>
 
 <p align="center" justify-content='space-between'>
-  <a href="" target="_blank"><img width=210 height=210 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
+  <a href="" target="_blank"><img width=210 height=210 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>    
   <a href="" target="_blank"><img width=210 height=210 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 </p>
 
@@ -41,3 +41,5 @@ Para esse projeto foi utilizado as tecnologias e dependências
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Styled-Components](https://styled-components.com/)
+- [Vite](https://vitejs.dev/)
