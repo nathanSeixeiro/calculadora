@@ -1,17 +1,17 @@
 <h3 align='center'> Calculadora </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nathanSeixeiro/calculadora">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/nathanSeixeiro/calculadora">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nathanSeixeiro/calculadora">
 
-  <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
+  <a href="https://www.linkedin.com/in/nathan-seixeiro/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Nathan%20Seixeiro-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/nathanSeixeiro/calculadora">
   
-  <a href="https://github.com/EliasGcf/readme-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/readme-template">
+  <a href="https://github.com/nathanSeixeiro/calculadora/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nathanSeixeiro/calculadora">
   </a>
   
   <a href="https://github.com/EliasGcf/readme-template/issues">
