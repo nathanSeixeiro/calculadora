@@ -62,7 +62,7 @@ $ git clone  https://github.com/nathanSeixeiro/calculadora.git && cd calculadora
 
 ```bash
 # Instale as dependencias
-$ yarn install
+$ yarn 
 # rode a aplicação
 $ yarn start
 ```
