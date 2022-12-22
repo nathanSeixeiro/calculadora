@@ -1,7 +1,6 @@
 <h3 align='center'> Calculadora </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/nathanSeixeiro/calculadora">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nathanSeixeiro/calculadora">
 
   <a href="https://www.linkedin.com/in/nathan-seixeiro/">
