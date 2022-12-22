@@ -30,12 +30,14 @@
   <a href="" target="_blank"><img width=210 height=210 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 </p>
 
-## 👨🏻‍💻 About the project
+## 👨🏻‍💻 Sobre o projeto
 
-- <p style="color: red;">Brief explanation about the project</p>
-  Uma calculadora desenvolvida durante o bootcamp Orange tech da plataforma
+- <p style="color: red;">Desafio 01 - calculadora</p>
+  Uma calculadora desenvolvida durante o bootcamp Orange tech da plataforma dio.
+  No desafio foi utilizado javascript mas para fins de aprofudamento e maior desafio utilizei typescript para resolução.
+  A calculadora realiza as operações básicas e função de limpar o visor.
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
 Para esse projeto foi utilizado as tecnologias e dependências
 
@@ -43,3 +45,25 @@ Para esse projeto foi utilizado as tecnologias e dependências
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled-Components](https://styled-components.com/)
 - [Vite](https://vitejs.dev/)
+- [Prettier](https://prettier.io/)
+
+## 💻 Como usar 
+
+### Requirements
+
+- Tenha o react instalado 
+
+**Clone o repositorio e entre na pasta raiz**
+
+```bash
+$ git clone  https://github.com/nathanSeixeiro/calculadora.git && cd calculadora
+```
+
+**Próximos passos**
+
+```bash
+# Instale as dependencias
+$ yarn install
+# rode a aplicação
+$ yarn start
+```
