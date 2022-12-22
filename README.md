@@ -25,7 +25,7 @@
   <a href="#-getting-started">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 </p>
 
-<p align="center">
+<p align="center" justify-content='space-between'>
   <a href="" target="_blank"><img width=222 height=222 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
   <a href="" target="_blank"><img width=222 height=222 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 </p>
