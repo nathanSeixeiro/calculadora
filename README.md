@@ -17,13 +17,11 @@
   <a href="https://github.com/nathanSeixeiro/calculadora/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/nathanSeixeiro/calculadora">
   </a>
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/nathanSeixeiro/calculadora">
 </p>
 
 <p align="center">
-  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
