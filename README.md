@@ -22,9 +22,12 @@
 <p align="center">
   <a href="#-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
+  <a href="#-getting-started">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+</p>
+
+<p align="center">
+  <a href="" target="_blank"><img width=222 height=222 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
+  <a href="" target="_blank"><img width=222 height=222 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 </p>
 
 ## 👨🏻‍💻 About the project
