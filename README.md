@@ -1,4 +1,4 @@
-<h3 align='center'> Calculadora </h3>
+<h1 align='center'> Calculadora </h1>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nathanSeixeiro/calculadora">
