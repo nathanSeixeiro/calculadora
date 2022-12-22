@@ -6,7 +6,7 @@ export const InputContainer = styled.div`
   background-color: #aaaaff;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: flex-start;
   font-size: 24px;
   font-family: "Roboto";
 
