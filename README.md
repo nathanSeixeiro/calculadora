@@ -14,11 +14,11 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nathanSeixeiro/calculadora">
   </a>
   
-  <a href="https://github.com/EliasGcf/readme-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/readme-template">
+  <a href="https://github.com/nathanSeixeiro/calculadora/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/nathanSeixeiro/calculadora">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
+  <img alt="GitHub" src="https://img.shields.io/github/license/nathanSeixeiro/calculadora">
 </p>
 
 <p align="center">
