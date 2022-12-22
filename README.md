@@ -67,3 +67,8 @@ $ yarn install
 # rode a aplicação
 $ yarn start
 ```
+### Exemplo de saida 
+
+![exemplo](https://user-images.githubusercontent.com/108758693/209059223-7ba2a764-307b-45b4-bda1-edb052febd1b.png)
+
+<p align="center">Feito por Nathan Seixeiro 🐱‍👤</p> 
